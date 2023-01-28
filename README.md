@@ -1,0 +1,1 @@
+[Original Code](https://www.codeproject.com/Articles/11805/Embedding-Python-in-C-C-Part-I), did a little modification to be compatible with python3.
